@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+pandas       # Manipulação e análise de dados (DataFrames, limpeza, join, agrupamentos)
+numpy        # Operações numéricas e arrays eficientes
+scikit-learn # Modelos de Machine Learning, métricas, preprocessing e treino/teste
+matplotlib   # Visualização básica de gráficos e figuras
+seaborn      # Visualizações estatísticas avançadas, gráficos mais bonitos
+fairlearn    # Métricas e algoritmos para fairness / avaliação de viés em ML
